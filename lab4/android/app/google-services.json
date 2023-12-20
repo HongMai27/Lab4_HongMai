@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193591219141",
+    "project_id": "maicute-def3b",
+    "storage_bucket": "maicute-def3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193591219141:android:8d38cc077ea366859971ac",
+        "android_client_info": {
+          "package_name": "com.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1OBxVNgeMJLyXqamnkEL3ZoH_6gPBkjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
